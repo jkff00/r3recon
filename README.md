@@ -13,5 +13,5 @@ Politecnico di Milano
 </a>
 
 ▶️ **Demo video** (MP4): 
-[![Demo Video](assets/abstract.png)](https://github.com/jkff00/R-3-RECON/releases/download/v1/paper-demo.mp4)
+[![Demo Video](https://github.com/jkff00/r3recon/releases/download/v1/2026-01-01.01-04-29.png)](https://github.com/jkff00/r3recon/releases/download/v1/paper-demo.mp4)
 
