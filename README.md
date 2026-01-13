@@ -8,9 +8,9 @@ Politecnico di Milano
 
 ```
 
-<a target="_blank" href="https://arxiv.org/abs/2412.17769">
+<!-- <a target="_blank" href="https://arxiv.org/abs/2412.17769">
     <img src="https://img.shields.io/badge/arXiv-2412.17769-b31b1b.svg" alt="arXiv Paper">
-</a>
+</a> -->
 
 ▶️ **Demo video** (MP4): 
 [![Demo Video](https://github.com/jkff00/r3recon/releases/download/v1/2026-01-01.01-04-29.png)](https://github.com/jkff00/r3recon/releases/download/v1/paper-demo.mp4)
