@@ -5,6 +5,12 @@ Xiaofeng Jin, Matteo Frosi, Yiran Guo, Matteo Matteucci
 Politecnico di Milano
 
 ```commandline
+@article{jin2026r3,
+  title={R3-RECON: Radiance-Field-Free Active Reconstruction via Renderability},
+  author={Jin, Xiaofeng and Frosi, Matteo and Guo, Yiran and Matteucci, Matteo},
+  journal={arXiv preprint arXiv:2601.07484},
+  year={2026}
+}
 
 ```
 
