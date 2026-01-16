@@ -11,7 +11,6 @@ Politecnico di Milano
   journal={arXiv preprint arXiv:2601.07484},
   year={2026}
 }
-
 ```
 
 <!-- <a target="_blank" href="https://arxiv.org/abs/2412.17769">
