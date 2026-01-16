@@ -3,6 +3,9 @@
 Xiaofeng Jin, Matteo Frosi, Yiran Guo, Matteo Matteucci
 
 Politecnico di Milano
+<a target="_blank" href="https://arxiv.org/abs/2601.07484">
+    <img src="https://img.shields.io/badge/arXiv-2412.17769-b31b1b.svg" alt="arXiv Paper">
+</a>
 
 ```commandline
 @article{jin2026r3,
